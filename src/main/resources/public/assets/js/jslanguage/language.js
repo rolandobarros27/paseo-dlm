@@ -1,4 +1,5 @@
 main();
+
 function getLanguage() {
     return window.navigator.language;
 }
@@ -53,7 +54,7 @@ function switchLang(myth) {
 }
 function getLangCode() {
     const lang = getLanguage();
-    return lang.substring(0,2);
+    return lang.substring(0, 2);
 }
 function main() {
     switch (window.location.pathname) {
