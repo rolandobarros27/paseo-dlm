@@ -70,7 +70,7 @@
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
               <h4 data-aos="fade-up">JASY JATERE</h4>
           <!-- h3 data-aos="fade-up">Enim quis est voluptatibus aliquid consequatur fugiat</h3>  --> 
-            <p id="textoespanol" data-aos="fade-up">Su nombre significa fragmento de luna. Jasy Jateré es un pequeño duende de 
+            <p id="information" data-aos="fade-up">Su nombre significa fragmento de luna. Jasy Jateré es un pequeño duende de 
             rubios y ondulados cabellos y ojos azules que vaga desnudo por las plantaciones 
             del campo en horas de la siesta, posee además un bastoncito de oro, una 
             especie de varita mágica, con la que atrae a su víctima, a quien luego lleva a su 
@@ -136,47 +136,6 @@
   <!-- Template Main JS File -->
 
     <script>
-      const spanish = document.querySelector("#spanish"),
-            english = document.querySelector("#english"),
-            portugues = document.querySelector("#portugues");
-      function changeSpanish () {
-        document.getElementById('nav-spanish').classList.add('active');
-        validateClass('nav-english');
-        validateClass('nav-portugues');
-        spanish.style.display   = 'block';
-        portugues.style.display = 'none';
-        english.style.display   = 'none';
-
-        spanish1.style.display   = 'block';
-        portugues1.style.display = 'none';
-        english1.style.display   = 'none';
-      }
-      function changePortugues () {
-        document.getElementById('nav-portugues').classList.add('active');
-        validateClass('nav-spanish');
-        validateClass('nav-english');
-        portugues.style.display   = 'block';
-        spanish.style.display = 'none';
-        english.style.display   = 'none';
-        
-        portugues1.style.display   = 'block';
-        spanish1.style.display = 'none';
-        english1.style.display   = 'none';
-        
-
-      }
-      function changeEnglish () {
-        document.getElementById('nav-english').classList.add('active');
-        validateClass('nav-spanish');
-        validateClass('nav-portugues');
-        english.style.display   = 'block';
-        portugues.style.display = 'none';
-        spanish.style.display   = 'none';
-        
-        english1.style.display   = 'block';
-        portugues1.style.display = 'none';
-        spanish1.style.display   = 'none';
-      }
 
       function validateClass(id) {
         const element = document.getElementById(id);
@@ -184,6 +143,7 @@
           element.classList.remove('active');
         } 
       }
+      
     </script>
 
   <script src="../assets/js/main.js"></script>
