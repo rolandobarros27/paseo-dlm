@@ -385,7 +385,12 @@ color: #C38154;
    position: relative;  
   background-size: cover; 
 }
-
+.about .tejujagua-box{
+  background: url("../img/tejujagua1.jpg")  center no-repeat; 
+  min-height: 600px; 
+   position: relative;  
+  background-size: cover; 
+}
 .about .play-btn {
   width: 94px;
   height: 94px;
