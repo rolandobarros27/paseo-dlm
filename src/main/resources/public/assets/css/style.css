@@ -27,7 +27,7 @@ h6 {
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
-  position: fixed;
+  position: fixed; 
   visibility: hidden;
   opacity: 0;
   right: 15px;
@@ -609,7 +609,15 @@ color: #C38154;
   background-size: cover; 
 }
 
-
+/*--------------------------------------------------------------
+# Se empieza a editar los mitos asi:
+--------------------------------------------------------------*/
+.about .mboi-box{
+  background: url("../img/mboitui1.jpg")  center no-repeat; 
+  min-height: 600px; 
+   position: relative;  
+  background-size: cover; 
+}
 
 .about .play-btn {
   width: 94px;

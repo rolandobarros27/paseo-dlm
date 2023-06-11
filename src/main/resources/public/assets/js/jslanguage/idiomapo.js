@@ -11,8 +11,8 @@ const po = {
         },
 
         {
-            "title": "Mboí Tu'i",
-            "information": "O segundo filho de Tau e Keraná. Tem corpo de cobra e bico de louro, dai seu nome, mboi, cobra e Tu´i Louro. Seus domínios são os pântanos. E respeitado como Deus protetor dos anfíbios e das flores."
+            "title": "Mbói Tu'i",
+            "information": "O segundo filho de Tau e Keraná. "+"<br>Tem corpo de cobra e bico de louro, dai seu nome, mboi, cobra e Tu´i Louro."+"<br> Seus domínios são os pântanos."+"<br> E respeitado como Deus protetor dos anfíbios e das flores."
         },
 
         {

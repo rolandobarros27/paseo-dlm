@@ -11,8 +11,8 @@ const es = {
         },
 
         {
-            "title": "Mboí Tu'i",
-            "information": "Fue el segundo hijo de Tau y Keraná. Tiene cuerpo de víbora y pico de loro, de donde también proviene su nombre: mbói : víbora, tu'i : loro. Sus dominios se extendían por los esteros. Es respetado como dios y protector de los anfibios y las flores."
+            "title": "Mbói Tu'i",
+            "information": "Fue el segundo hijo de Tau y Keraná."+"<br> Tiene cuerpo de víbora y pico de loro, de donde también proviene su nombre: “mbói” : víbora, “tu’i” : loro."+"<br>Sus dominios se extendían por los esteros."+"<br>Es respetado como dios y protector de los anfibios y las flores."
         },
 
         {

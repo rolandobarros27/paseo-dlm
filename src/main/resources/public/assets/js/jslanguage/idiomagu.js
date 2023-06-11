@@ -11,8 +11,8 @@ const gu = {
         },
 
         {
-            "title": "Mboí Tu'i",
-            "information": "Kóva ha’e Tau ha Kerana memby mokõiha, hete mbói ha iñaka tu’ĩ. Oje’émi hese Ha’eha mba’e he’õ rerekuára. Avei ha’e pira, mbusu, ysapy ha yvoty ñangarekohára."
+            "title": "Mbói Tu'i",
+            "information": "Kóva ha’e Tau ha Kerana memby mokõiha."+"<br>Hete mbói ha iñaka tu’ĩ. Oje’émi hese ha’eha mba’e he’õ rerekuára."+"<br> Avei ha’e pira, mbusu, ysapy ha yvoty ñangarekohára."
         },
 
         {
