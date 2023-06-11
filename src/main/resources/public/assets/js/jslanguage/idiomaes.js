@@ -22,7 +22,7 @@ const es = {
 
         {
             "title": "Jasy Jatere",
-            "information": "Su nombre significa fragmento de luna. Jasy Jateré es un pequeño duende de rubios y ondulados cabellos y ojos azules que vaga desnudo por las plantaciones del campo en horas de la siesta, posee además un bastoncito de oro, una especie de varita mágica, con la que atrae a su víctima, a quien luego lleva a su hermano Ao ao (que es antropófago). Otra manera de atraer a sus víctimas es el silbido que produce imitando el canto de un pájaro. Es considerado como el cupido guaraní. Se dice que Jasy Jateré rapta niños, los alimenta con frutas, miel y gusanos, luego los deja libre, pero éstos regresan a sus casas ya tontos. Por esto, las madres paraguayas advierten y prohíben a sus hijos salir a jugar en horas de la siesta, ya que corren peligros de ser llevados por Jasy Jateré."
+            "information": "Su nombre significa fragmento de luna. Jasy Jateré es un pequeño duende de rubios y ondulados cabellos y ojos azules que vaga desnudo por las plantaciones del campo en horas de la siesta, posee además un bastoncito de oro, una especie de varita mágica, con la que atrae a su víctima, a quien luego lleva a su hermano Ao ao (que es antropófago). Otra manera de atraer a sus víctimas es el silbido que produce imitando el canto de un pájaro. Es considerado como el cupido guaraní.<br><br> Se dice que Jasy Jateré rapta niños, los alimenta con frutas, miel y gusanos, luego los deja libre, pero éstos regresan a sus casas ya tontos. Por esto, las madres paraguayas advierten y prohíben a sus hijos salir a jugar en horas de la siesta, ya que corren peligros de ser llevados por Jasy Jateré."
         },
 
         {
