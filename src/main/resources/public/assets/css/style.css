@@ -609,6 +609,13 @@ color: #C38154;
   background-size: cover; 
 }
 
+.about .kerana-box {
+  background: url("../img/tauykerana1.jpg")  center no-repeat; 
+  min-height: 550px; 
+   position: relative;  
+  background-size: cover; 
+}
+
 
 
 .about .play-btn {
