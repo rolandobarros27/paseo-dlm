@@ -11,8 +11,8 @@ const en = {
         },
 
         {
-            "title": "Mboí Tu'i",
-            "information": "He was Tau and Keraná’s second child. He has the body of a snake and the beak of a parrot, that being the origin of his name: mbói meaning snake, while tu’i means parrot. His lands are considered to be the swamps. He is respected as a god and protector of amphibians and flowers."
+            "title": "Mbói Tu'i",
+            "information": "He was Tau and Keraná’s second child."+"<br>He has the body of a snake and the beak of a parrot, that being the origin of his name: “mbói” meaning snake, while “tu’i” means parrot."+"<br>His lands are considered to be the swamps."+"<br>He is respected as a god and protector of amphibians and flowers."
         },
 
         {
