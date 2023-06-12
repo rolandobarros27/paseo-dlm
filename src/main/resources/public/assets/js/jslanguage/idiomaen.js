@@ -12,7 +12,7 @@ const en = {
 
         {
             "title": "Mbói Tu'i",
-            "information": "He was Tau and Keraná’s second child."+"<br>He has the body of a snake and the beak of a parrot, that being the origin of his name: “mbói” meaning snake, while “tu’i” means parrot."+"<br>His lands are considered to be the swamps."+"<br>He is respected as a god and protector of amphibians and flowers."
+            "information": "He was Tau and Keraná’s second child." + "<br>He has the body of a snake and the beak of a parrot, that being the origin of his name: “mbói” meaning snake, while “tu’i” means parrot." + "<br>His lands are considered to be the swamps." + "<br>He is respected as a god and protector of amphibians and flowers."
         },
 
         {
@@ -39,5 +39,31 @@ const en = {
             "title": "Luisón",
             "information": "The seventh son of Tau and Keraná; considered the lord of death due to his taste for walking around cemeteries and eating the flesh of the dead. He is one of the more terrifying myths in guaraní folklore. It's said that on Tuesdays and Fridays, Luión loses his human form and becomes a dog with a gloomy appearance, big fangs and a horrible smell. He recovers his human form as the sun of the new day comes up, becoming a man again, though with a sad appearance; dirty and tired. It's said that the seventh son of every woman will become Luisón."
         }
-    ]
+    ],
+    "index": {
+        "title": "Discover the Myths and Legends on  <br class='d-block d-lg-block'/> the Myths Walk.",
+        "subtitle": "Ready to immerse yourself in the world of myths? Discover the enchantment of Yaguarón and its legendary stories on the unparalleled Myths Walk.",
+        "activitiesTitle": "Enjoy the activities.",
+        "activitiesSubtitle": "At the Myths Walk, you can enjoy a series of activities that will provide you with unique and unforgettable experiences.",
+        "activitiesFirts": "Games",
+        "activitiesFirtsDescription": "Labyrinth",
+        "activitiesSecond": "Leyends",
+        "activitiesSecondDescription": "Rock climbing.",
+        "testimonialText": "What do adventurers think about <br/>the Myths Walk?",
+        "footerTitle": "The true experience  <span class='text-success'>is here</span>   at the Myths Walk</h1><a class='btn btn-lg btn-success px-6' href='/myths/aoao.html'",
+        "navbarHome": "Home",
+        "navbarFirts": "Home",
+        "dropdownMenuLink": "Myths",
+        "navbarThird": "Contact Us",
+        "selectLang": "Select your language",
+        "view1": "The Myths Walk in Yaguarón is a tourist gem. The stories envelop you in their charm.",
+        "view2": "A must-visit for those who love culture and folklore. The Myths Walk does not disappoint.",
+        "view3": "I didn't imagine myths could be so captivating. The Myths Walk exceeded my expectations.",
+        "view4": "The Myths Walk in Yaguarón is a tourist gem. The stories envelop you in their charm.",
+        "view5": "A must-visit for those who love culture and folklore. The Myths Walk does not disappoint.",
+        "view6": "I didn't imagine myths could be so captivating. The Myths Walk exceeded my expectations.",
+        "view7": "The Myths Walk in Yaguarón is a tourist gem. The stories envelop you in their charm.",
+        "view8": "A must-visit for those who love culture and folklore. The Myths Walk does not disappoint.",
+        "view9": "I didn't imagine myths could be so captivating. The Myths Walk exceeded my expectations.",
+    },
 }

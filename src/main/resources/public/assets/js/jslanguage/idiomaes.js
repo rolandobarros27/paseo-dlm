@@ -39,5 +39,31 @@ const es = {
             "title": "Luisón",
             "information": "El séptimo hijo de Tau y Keraná ; considerado señor de la muerte, debido al gusto que tiene por rondar cementerios y alimentarse de la carne de los cadáveres. Es uno de los mitos más terroríficos del folklore guaraní. Se dice que los martes y viernes, Luisón pierde la forma humana y se convierte en un perro de apariencia lúgubre, con grandes colmillos y que emana un olor muy desagradable. Recupera sus formas humanas al aclararse el nuevo día, donde es hombre nuevamente, pero de apariencia triste; está sucio y cansado. Se dice que el séptimo hijo de cada mujer será Luisón."
         }
-    ]
+    ],
+    "index": {
+        "title": "Descubre los Mitos y Leyendas en <br class='d-block d-lg-block'/> el Paseo de Los Mitos.",
+        "subtitle": "¿Listo para adentrarte en el mundo de los mitos? Descubre el encanto de Yaguarón y sus legendarias historias en el inigualable Paseo de los Mitos.",
+        "activitiesTitle": "Disfrutá de las actividades",
+        "activitiesSubtitle": "En el paseo de los mitos podés disfrutar de una serie de actividades que te brindarán experiencias únicas e irrepetibles",
+        "activitiesFirts": "JUEGOS",
+        "activitiesFirtsDescription": "Laberinto",
+        "activitiesSecond": "Leyendas",
+        "activitiesSecondDescription": "Escalada.",
+        "testimonialText": "Que opinan los aventureros <br />sobre el Paseo de los Mitos",
+        "footerTitle": "La verdadera experiencia &nbsp;<span class='text-success'>Esta Aquí</span> &nbsp; en El Paseo de Los Mitos</h1><a class='btn btn-lg btn-success px-6' href='/mitos/aoao.html'",
+        "navbarHome": "Inicio",
+        "navbarFirts": "Inicio",
+        "dropdownMenuLink": "Mitos",
+        "navbarThird": "Contáctanos",
+        "selectLang": "Selecciona tu idioma",
+        "view1": "El Paseo de los Mitos en Yaguarón es una joya turística. Los relatos te envuelven en su encanto.",
+        "view2": "Una visita obligada para aquellos que aman la cultura y el folklore. El Paseo de los Mitos no decepciona.",
+        "view3": "No imaginé que los mitos pudieran ser tan cautivadores. El Paseo de los Mitos superó mis expectativas.",
+        "view4": "El Paseo de los Mitos en Yaguarón es una joya turística. Los relatos te envuelven en su encanto.",
+        "view5": "Una visita obligada para aquellos que aman la cultura y el folklore. El Paseo de los Mitos no decepciona.",
+        "view6": "No imaginé que los mitos pudieran ser tan cautivadores. El Paseo de los Mitos superó mis expectativas.",
+        "view7": "El Paseo de los Mitos en Yaguarón es una joya turística. Los relatos te envuelven en su encanto.",
+        "view8": "Una visita obligada para aquellos que aman la cultura y el folklore. El Paseo de los Mitos no decepciona.",
+        "view9": "No imaginé que los mitos pudieran ser tan cautivadores. El Paseo de los Mitos superó mis expectativas.",
+    },
 }

@@ -12,7 +12,7 @@ const po = {
 
         {
             "title": "Mbói Tu'i",
-            "information": "O segundo filho de Tau e Keraná. "+"<br>Tem corpo de cobra e bico de louro, dai seu nome, mboi, cobra e Tu´i Louro."+"<br> Seus domínios são os pântanos."+"<br> E respeitado como Deus protetor dos anfíbios e das flores."
+            "information": "O segundo filho de Tau e Keraná. " + "<br>Tem corpo de cobra e bico de louro, dai seu nome, mboi, cobra e Tu´i Louro." + "<br> Seus domínios são os pântanos." + "<br> E respeitado como Deus protetor dos anfíbios e das flores."
         },
 
         {
@@ -39,5 +39,32 @@ const po = {
             "title": "Luisón",
             "information": "O sétimo filho de Tau e Keraná; considerado o senhor da morte, devido ao seu gosto por rondar os cemitérios e alimentar-se da carne dos cadáveres. É um dos mitos mais aterrorizantes do folclore Guarani. Conta-se que às terças e sextas-feiras, Luisón perde sua forma humana e se transforma em um cachorro de aspecto sombrio, com dentes grandes e um odor muito desagradável. Ele recupera suas formas humanas ao raiar do novo dia, onde volta a ser homem, mas com uma aparência triste; ele está sujo e cansado. Diz-se que o sétimo filho de cada mulher será Luisón."
         }
-    ]
+    ],
+    "index": {
+        "title": "Descubra os Mitos e Lendas no Passeio dos Mitos.",
+        "subtitle": "Pronto para se envolver no mundo dos mitos? Descubra o encanto de Yaguarón e suas histórias lendárias no incomparável Passeio dos Mitos.",
+        "activitiesTitle": "Aproveite as atividades.",
+        "activitiesSubtitle": "No Passeio dos Mitos, você pode desfrutar de uma série de atividades que proporcionarão experiências únicas e inesquecíveis.",
+        "activitiesFirts": "Jogos",
+        "activitiesFirtsDescription": "Labirinto",
+        "activitiesSecond": "Lendas",
+        "activitiesSecondDescription": "Escalada em rocha.",
+        "testimonialText": "O que os aventureiros acham do Passeio dos Mitos?",
+        "footerTitle": "A verdadeira experiência  <span class='text-success'>está aqui</span>   no Passeio dos Mitos</h1><a class='btn btn-lg btn-success px-6' href='/mitos/aoao.html'",
+        "navbarHome": "Início",
+        "navbarFirts": "Início",
+        "dropdownMenuLink": "Mitos",
+        "navbarThird": "Contate-nos",
+        "selectLang": "Selecione seu idioma",
+
+        "view1": "O Passeio dos Mitos em Yaguarón é uma joia turística. As histórias envolvem você em seu encanto.",
+        "view2": "Uma visita obrigatória para aqueles que amam cultura e folclore. O Passeio dos Mitos não decepciona.",
+        "view3": "Eu não imaginava que os mitos pudessem ser tão cativantes. O Passeio dos Mitos superou minhas expectativas.",
+        "view4": "O Passeio dos Mitos em Yaguarón é uma joia turística. As histórias envolvem você em seu encanto.",
+        "view5": "Uma visita obrigatória para aqueles que amam cultura e folclore. O Passeio dos Mitos não decepciona.",
+        "view6": "Eu não imaginava que os mitos pudessem ser tão cativantes. O Passeio dos Mitos superou minhas expectativas.",
+        "view7": "O Passeio dos Mitos em Yaguarón é uma joia turística. As histórias envolvem você em seu encanto.",
+        "view8": "Uma visita obrigatória para aqueles que amam cultura e folclore. O Passeio dos Mitos não decepciona.",
+        "view9": "Eu não imaginava que os mitos pudessem ser tão cativantes. O Passeio dos Mitos superou minhas expectativas.",
+    }
 }

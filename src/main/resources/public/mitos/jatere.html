@@ -35,7 +35,7 @@
   <div id="navbarContend"></div>
 
   <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-flex align-items-center">
+  <section class="d-flex align-items-center" style="margin-top: 0%; padding-top: 0%;">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
       </div>
@@ -43,10 +43,7 @@
 
 
 
-    <audio loop id="audio1">
-      <source src="assets/audio/cigarra.mp3" type="audio/mpeg">
-    </audio>
-
+    
 
 
 
@@ -73,6 +70,24 @@
         </div>
       </div>
 
+      <audio controls id="spanishAudio">
+        <source  src="/assets/audio/spanish/jasyjatere.wav" type="audio/wav" style="display: none;">
+      </audio>
+
+      <audio controls id="englishAudio"  style="display: none;">
+        <source   src="/assets/audio/english/jasyjatere.wav" type="audio/wav">
+      </audio>
+
+      <audio controls id="portugueseAudio" style="display: none;">
+        <source  src="/assets/audio/portuguese/jasyjatere.wav" type="audio/wav" >
+      </audio>
+      
+      <audio controls id="guaraniAudio"  style="display: none;">
+        <source  src="/assets/audio/guarani/jasyjatere.wav" type="audio/wav">
+      </audio>
+
+      
+  
     </div>
   </section><!-- End About Section -->
   <!-- ======= Logo ======= -->
@@ -129,4 +144,5 @@
   <script src="../assets/js/jslanguage/language.js"></script>
 
 </body>
+
 </html>

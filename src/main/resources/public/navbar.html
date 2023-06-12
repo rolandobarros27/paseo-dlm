@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Navbar</title>
+
+
 </head>
+
 <body>
-    
+
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 bg-light opacity-85"
         data-navbar-on-scroll="data-navbar-on-scroll">
-        <div class="container"><a class="navbar-brand" href="/index.html"><img class="d-inline-block align-top img-fluid"
-                    src="/assets/img/gallery/yaguaron-logo.jpg" alt="" width="50" /><span
-                    class="text-theme font-monospace fs-4 ps-2">Inicio</span></a>
+        <div class="container"><a class="navbar-brand" href="/index.html"><img
+                    class="d-inline-block align-top img-fluid" src="/assets/img/gallery/yaguaron-logo.jpg" alt=""
+                    width="50" /><span class="text-theme font-monospace fs-4 ps-2" id="navBarHome">Inicio</span></a>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -19,7 +23,7 @@
                 id="navbarSupportedContent">
                 <ul class="navbar-nav mb-2 mb-lg-0">
                     <li class="nav-item mx-md-4"><a class="nav-link fw-medium active" aria-current="page"
-                            href="/index.html">Inicio</a></li>
+                            href="/index.html" id="navbarFirts">Inicio</a></li>
 
                     <li class="nav-item mx-md-4">
                         <a class="nav-link fw-medium" href="#" role="button" id="dropdownMenuLink"
@@ -36,13 +40,49 @@
                             <a class="dropdown-item" href="/mitos/kerana.html">Taú y Kerana</a>
                             <a class="dropdown-item" href="/mitos/tejujagua.html">Teju Jagua</a>
                         </div>
-                    <li class="nav-item mx-md-4"><a class="nav-link fw-medium" href="#">Contáctanos</a></li>
+                    <li class="nav-item mx-md-4"><a class="nav-link fw-medium" href="#" id="navbarThird">Contáctanos</a></li>
                 </ul>
+                <form class="d-flex">
+                    <a type="button" title="Idioma" data-toggle="modal" data-target="#exampleModalCenter"
+                        style="margin: 0%; padding: 0%;"><img class="d-inline-block align-top img-fluid"
+                            src="/assets/img/icons/language-icon.png" alt="" width="65" height="45" align="right">
+
+                    </a>
+                </form>
             </div>
+        </div>
     </nav>
-    <!-- ===============================================-->
-    <!--    JavaScripts-->
-    <!-- ===============================================-->
- 
+
+
+    <!-- Button trigger modal -->
+
+
+    <!-- Modal -->
+    <div class="modal fade bd-example-modal-lg" id="exampleModalCenter" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+
+                    <section id="about" class="about section-bg" style="padding: 0%;">
+                        <div class="container">
+
+                            <div
+                                class="icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+                                <h4 data-aos="fade-up" id="selectLang">Selecciona el idioma</h4>
+                                <button id="espanol" class="rounded-button" data-aos="fade-up"
+                                    href="/texto-jasyjatere.html" data-dismiss="modal" onclick="addLocalStorage(this.value)" value="es">ESPAÑOL</button>
+                                <button id="portugues" class="rounded-button" data-aos="fade-up" data-dismiss="modal" onclick="addLocalStorage(this.value)" value="pt">PORTUGUES</button>
+                                <button id="ingles" class="rounded-button" data-aos="fade-up" data-dismiss="modal" onclick="addLocalStorage(this.value)" value="en">INGLES</button>
+                            </div>
+
+                        </div>
+                    </section><!-- End About Section -->
+
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
+
 </html>
