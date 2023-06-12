@@ -37,7 +37,7 @@ const po = {
 
         {
             "title": "Luisón",
-            "information": "O sétimo filho de Tau e Keraná; considerado o senhor da morte, devido ao seu gosto por rondar os cemitérios e alimentar-se da carne dos cadáveres. É um dos mitos mais aterrorizantes do folclore Guarani. Conta-se que às terças e sextas-feiras, Luisón perde sua forma humana e se transforma em um cachorro de aspecto sombrio, com dentes grandes e um odor muito desagradável. Ele recupera suas formas humanas ao raiar do novo dia, onde volta a ser homem, mas com uma aparência triste; ele está sujo e cansado. Diz-se que o sétimo filho de cada mulher será Luisón."
+            "information": "O sétimo filho de Tau e Keraná; considerado o senhor da morte, devido ao seu gosto por rondar os cemitérios e alimentar-se da carne dos cadáveres. É um dos mitos mais aterrorizantes do folclore Guarani.<br><br>Conta-se que às terças e sextas-feiras, Luisón perde sua forma humana e se transforma em um cachorro de aspecto sombrio, com dentes grandes e um odor muito desagradável. Ele recupera suas formas humanas ao raiar do novo dia, onde volta a ser homem, mas com uma aparência triste; ele está sujo e cansado.<br><br>Diz-se que o sétimo filho de cada mulher será Luisón."
         }
     ]
 }

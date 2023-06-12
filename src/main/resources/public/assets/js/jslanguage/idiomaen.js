@@ -37,7 +37,7 @@ const en = {
 
         {
             "title": "Luisón",
-            "information": "The seventh son of Tau and Keraná; considered the lord of death due to his taste for walking around cemeteries and eating the flesh of the dead. He is one of the more terrifying myths in guaraní folklore. It's said that on Tuesdays and Fridays, Luión loses his human form and becomes a dog with a gloomy appearance, big fangs and a horrible smell. He recovers his human form as the sun of the new day comes up, becoming a man again, though with a sad appearance; dirty and tired. It's said that the seventh son of every woman will become Luisón."
+            "information": "The seventh son of Tau and Keraná; considered the lord of death due to his taste for walking around cemeteries and eating the flesh of the dead. He is one of the more terrifying myths in guaraní folklore.<br><br>It's said that on Tuesdays and Fridays, Luión loses his human form and becomes a dog with a gloomy appearance, big fangs and a horrible smell. He recovers his human form as the sun of the new day comes up, becoming a man again, though with a sad appearance; dirty and tired.<br><br>It's said that the seventh son of every woman will become Luisón."
         }
     ]
 }

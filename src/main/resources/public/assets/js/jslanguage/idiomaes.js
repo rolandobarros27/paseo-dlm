@@ -37,7 +37,7 @@ const es = {
 
         {
             "title": "Luisón",
-            "information": "El séptimo hijo de Tau y Keraná ; considerado señor de la muerte, debido al gusto que tiene por rondar cementerios y alimentarse de la carne de los cadáveres. Es uno de los mitos más terroríficos del folklore guaraní. Se dice que los martes y viernes, Luisón pierde la forma humana y se convierte en un perro de apariencia lúgubre, con grandes colmillos y que emana un olor muy desagradable. Recupera sus formas humanas al aclararse el nuevo día, donde es hombre nuevamente, pero de apariencia triste; está sucio y cansado. Se dice que el séptimo hijo de cada mujer será Luisón."
+            "information": "El séptimo hijo de Tau y Keraná; considerado señor de la muerte, debido al gusto que tiene por rondar cementerios y alimentarse de la carne de los cadáveres. Es uno de los mitos más terroríficos del folklore guaraní.<br><br>Se dice que los martes y viernes, Luisón pierde la forma humana y se convierte en un perro de apariencia lúgubre, con grandes colmillos y que emana un olor muy desagradable. Recupera sus formas humanas al aclararse el nuevo día, donde es hombre nuevamente, pero de apariencia triste; está sucio y cansado.<br><br>Se dice que el séptimo hijo de cada mujer será Luisón."
         }
     ]
 }
