@@ -407,8 +407,22 @@ section {
   background-size: cover;
 }
 
-.about .kerana-box {
+.about .moniai-box {
   background: url("../img/moniai.jpg") center no-repeat;
+  min-height: 600px;
+  position: relative;
+  background-size: cover;
+}
+
+.about .teju-box {
+  background: url("../img/teju.jpg") center no-repeat;
+  min-height: 600px;
+  position: relative;
+  background-size: cover;
+}
+
+.about .luison-box {
+  background: url("../img/luison.jpg") center no-repeat;
   min-height: 600px;
   position: relative;
   background-size: cover;
