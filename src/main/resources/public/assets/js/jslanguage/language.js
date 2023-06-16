@@ -141,27 +141,64 @@ function setIndexHtml(lang) {
     document.getElementById("activitiesSubtitle").innerHTML = lang.index.activitiesSubtitle;
     document.getElementById("activitiesFirts").innerHTML = lang.index.activitiesFirts;
     document.getElementById("activitiesFirtsDescription").innerHTML = lang.index.activitiesFirtsDescription;
+    document.getElementById("labyrinthDescription").innerHTML = lang.index.labyrinthDescription;
     document.getElementById("activitiesSecond").innerHTML = lang.index.activitiesSecond;
     document.getElementById("activitiesSecondDescription").innerHTML = lang.index.activitiesSecondDescription;
+    document.getElementById("climbingDescription").innerHTML = lang.index.climbingDescription;
     document.getElementById("testimonialText").innerHTML = lang.index.testimonialText;
     document.getElementById("footerTitle").innerHTML = lang.index.footerTitle;
+    document.getElementById("footerButton").innerHTML = lang.index.footerButton;
     document.getElementById("view1").innerHTML = lang.index.view1;
+    document.getElementById("view1Possition").innerHTML = lang.index.view1Possition;
     document.getElementById("view2").innerHTML = lang.index.view2;
+    document.getElementById("view2Possition").innerHTML = lang.index.view2Possition;
     document.getElementById("view3").innerHTML = lang.index.view3;
+    document.getElementById("view3Possition").innerHTML = lang.index.view3Possition;
     document.getElementById("view4").innerHTML = lang.index.view4;
+    document.getElementById("view4Possition").innerHTML = lang.index.view4Possition;
     document.getElementById("view5").innerHTML = lang.index.view5;
+    document.getElementById("view5Possition").innerHTML = lang.index.view5Possition;
     document.getElementById("view6").innerHTML = lang.index.view6;
+    document.getElementById("view6Possition").innerHTML = lang.index.view6Possition;
     document.getElementById("view7").innerHTML = lang.index.view7;
+    document.getElementById("view7Possition").innerHTML = lang.index.view7Possition;
     document.getElementById("view8").innerHTML = lang.index.view8;
+    document.getElementById("view8Possition").innerHTML = lang.index.view8Possition;
     document.getElementById("view9").innerHTML = lang.index.view9;
+    document.getElementById("view9Possition").innerHTML = lang.index.view9Possition;
 }
 function setNavbarLang(lang) {
-   
     document.getElementById("navBarHome").innerHTML = lang.index.navbarHome;
     document.getElementById("navbarFirts").innerHTML = lang.index.navbarFirts;
     document.getElementById("dropdownMenuLink").innerHTML = lang.index.dropdownMenuLink;
     document.getElementById("navbarThird").innerHTML = lang.index.navbarThird;
     document.getElementById("selectLang").innerHTML = lang.index.selectLang;
+}
+function setContactLang(lang){
+    document.getElementById("title").innerHTML = lang.contact.title;
+    document.getElementById("nombre").innerHTML = lang.contact.nombre;
+    document.getElementById("telefono").innerHTML = lang.contact.telefono;
+    document.getElementById("enviar").innerHTML = lang.contact.enviar;
+}
+function switcContactLang() {
+    const lang = getLangCode();
+    switch (lang) {
+        case "es":
+            setContactLang(es);
+            break;
+        case "en":
+            setContactLang(en);
+            break;
+        case "gn":
+            setContactLang(gu);
+            break;
+        case "pt":
+            setContactLang(po);
+            break;
+        default:
+            setContactLang(en);
+            break;
+    }
 }
 
 function getLangCode() {
@@ -198,6 +235,9 @@ function main() {
             break;
         case "/mitos/tejujagua.html":
             tejuJagua();
+            break;
+        case "/contact.html":
+            switcContactLang();
             break;
     }
 }
