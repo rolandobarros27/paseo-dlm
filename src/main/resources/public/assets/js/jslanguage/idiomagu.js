@@ -26,7 +26,7 @@ const gu = {
         },
 
         {
-            "title": "kurupí",
+            "title": "Kurupí",
             "information": "Kóva hina Tau ha Kerana memby poha. Karia’y karape oikóva asajepyte ka’aguýre ñemiháme. Oikóje ohapera’arõ mitãkuña osẽva asajerei hógagui, Kurupi ojuráne katuete ha ogueraha ka’aguy hesakãhápe kapi’ipe rovyũ ha hyakuãvureíva ári orairõ ombotarova térã ojuka peve."
         },
 
@@ -39,5 +39,49 @@ const gu = {
             "title": "Luisón",
             "information": "kóva hina Tau ha Kerana memby pokõiha. Ojogua peteĩ jaguápe; ivai, hesa vera ha iñakãguasu. Pyharepyte vove oho ojapajeréi te’ongue ári, upévare hesa’yju ha ine. Oĩramo kuña imembýva pokõi kuimba’e, pe ipahaguéva ha’eva’erã katuete Luisõ. Pyhare reñandúramo oñarõva ha opoko nde py ipo ro’ysãme, ha’e Luisõ nemomarandúva nde ára paha."
         }
-    ]
+    ],
+    "index": {
+        "title": "Descubre los Mitos y Leyendas en <br class='d-block d-lg-block'/> el Paseo de Los Mitos.",
+        "subtitle": "¿Listo para adentrarte en el mundo de los mitos? Descubre el encanto de Yaguarón y sus legendarias historias en el inigualable Paseo de los Mitos.",
+        "activitiesTitle": "Disfrutá de las actividades",
+        "activitiesSubtitle": "En el paseo de los mitos podés disfrutar de una serie de actividades que te brindarán experiencias únicas e irrepetibles",
+        "activitiesFirts": "JUEGOS",
+        "activitiesFirtsDescription": "Laberinto",
+        "labyrinthDescription": "Navega a través de una aventura laberíntica, ingresando por una puerta y buscando la salida",
+        "activitiesSecond": "Leyendas",
+        "activitiesSecondDescription": "Escalada.",
+        "climbingDescription": "Embárcate en un emocionante viaje mientras subes una montaña majestuosa, conquistando sus alturas.",
+        "testimonialText": "Que opinan los aventureros <br />sobre el Paseo de los Mitos",
+        "footerTitle": "La verdadera experiencia &nbsp;<span class='text-success'>Esta Aquí</span> &nbsp; en El Paseo de Los Mitos</h1><a class='btn btn-lg btn-success px-6' href='/mitos/aoao.html'",
+        "footerButton": "Descubre ahora!",
+        "navbarHome": "Inicio",
+        "navbarFirts": "Inicio",
+        "dropdownMenuLink": "Mitos",
+        "navbarThird": "Contáctanos",
+        "selectLang": "Selecciona tu idioma",
+        "view1": "El Paseo de los Mitos en Yaguarón es una joya turística. Los relatos te envuelven en su encanto.",
+        "view1Possition": "Estudiante de Ing. Informática.",
+        "view2": "Una visita obligada para aquellos que aman la cultura y el folklore. El Paseo de los Mitos no decepciona.",
+        "view2Possition": "Estudiante de Ing. Informática.",
+        "view3": "No imaginé que los mitos pudieran ser tan cautivadores. El Paseo de los Mitos superó mis expectativas.",
+        "view3Possition": "Estudiante de Ing. Informática.",
+        "view4": "El Paseo de los Mitos en Yaguarón es una joya turística. Los relatos te envuelven en su encanto.",
+        "view4Possition": "Estudiante de Ing. Informática.",
+        "view5": "Una visita obligada para aquellos que aman la cultura y el folklore. El Paseo de los Mitos no decepciona.",
+        "view5Possition": "Estudiante de Ing. Informática.",
+        "view6": "No imaginé que los mitos pudieran ser tan cautivadores. El Paseo de los Mitos superó mis expectativas.",
+        "view6Possition": "Estudiante de Ing. Informática.",
+        "view7": "El Paseo de los Mitos en Yaguarón es una joya turística. Los relatos te envuelven en su encanto.",
+        "view7Possition": "Estudiante de Ing. Informática.",
+        "view8": "Una visita obligada para aquellos que aman la cultura y el folklore. El Paseo de los Mitos no decepciona.",
+        "view8Possition": "Estudiante de Ing. Informática.",
+        "view9": "No imaginé que los mitos pudieran ser tan cautivadores. El Paseo de los Mitos superó mis expectativas.",
+        "view9Possition": "Estudiante de Ing. Informática.",
+    },
+    "contact":{
+        "title":"Contáctanos",
+        "nombre":"Nombre",
+        "telefono":"Telefono",
+        "enviar":"Enviar"
+    }
 }
