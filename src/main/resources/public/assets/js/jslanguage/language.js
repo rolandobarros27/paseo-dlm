@@ -209,6 +209,9 @@ function getLangCode() {
 function main() {
 
     switch (window.location.pathname) {
+        case "/":
+            switchIndexLang();
+            break;
         case "/index.html":
             switchIndexLang();
             break;
